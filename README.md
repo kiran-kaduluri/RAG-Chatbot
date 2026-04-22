@@ -22,7 +22,7 @@ It uses a Retrieval-Augmented Generation (RAG) pipeline to generate accurate, co
 
 ## 🏗️ System Architecture
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](.Data/architecture.png)
 
 ### 🔍 Workflow
 
